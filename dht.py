@@ -22,4 +22,4 @@ while True:
     else:
         print('Failed to get reading. Try again!')
 
-    time.sleep(5)
+    time.sleep(300)
